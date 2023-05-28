@@ -1,1 +1,1 @@
-vi file1 file2
+view file1
