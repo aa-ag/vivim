@@ -1,1 +1,1 @@
-vi file
+vi file1 file2
