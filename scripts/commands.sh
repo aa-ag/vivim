@@ -1,1 +1,1 @@
-view +10 file1
+view +/9 file1
