@@ -1,1 +1,1 @@
-view file1
+view +10 file1
