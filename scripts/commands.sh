@@ -1,1 +1,1 @@
-vimdiff file1 file2
+vi -w 3 Charles_Dickens_AXmasCharol.txt
