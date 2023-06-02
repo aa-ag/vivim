@@ -1,1 +1,1 @@
-view +/9 file1
+vimdiff file1 file2
